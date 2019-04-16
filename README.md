@@ -35,7 +35,8 @@ The project will be available at **127.0.0.1:8000**.
 
 
 
-##Screenshoots :
+
+## Authentication GIF 
 
 ![Alt Text](https://github.com/GaneshanNT/Authentication/blob/master/Djnago%20login.gif?raw=true)
 
